@@ -26,7 +26,7 @@ Serverless computing simplifies deployment, but makes it harder to tune performa
 
 Create a .env file in the root direcoty based on .env.example template and enter you AWS credentials.
 ```bash
-cp .env.example .env
+cp env.example .env
 vi .env
 ```
 
